@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: My-laptop
+    runs-on: My-laptop,self-hosted
 
     strategy:
       matrix:
