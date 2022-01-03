@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: jayesh-runner
+    runs-on: my-runner
 
     strategy:
       matrix:
